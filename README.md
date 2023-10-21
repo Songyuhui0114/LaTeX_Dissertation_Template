@@ -4,7 +4,6 @@ It's maybe the best choice for you to take notes or finish dissertations, defini
 We can first have a good look at it quickly:
 
 <img src="images/pg1.png" width="400"><img src="images/pg2.png" width="400">
-<img src="images/pg3.png" width="400"><img src="images/pg4.png" width="400">
 
 A modern, highly configurable assignment/project/fyp/dissertation/thesis template for the China University of Petroleum, Beijing.  (In reality, there is nothing specific to the China University of Petroleum, and this LaTeX class may be used anywhere).  This template is loosely based on my summer-research Thesis at the Lomonosov Moscow State University, which was loosely based on Dr. Jean.p.Ebejer's D.Phil. Thesis at the University of Oxford, which was loosely based on ...  You get the drift.
 
